@@ -101,11 +101,11 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
+  background-color: #272727;
 }
 
 .container {
   display: flex;
-  border: 2px solid #f00;
   width: 90vw;
 }
 
